@@ -2,8 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/coaching/</loc>
+  </url><url>
     <loc>/</loc>
   </url><url>
+    <loc>/kindercoaching/</loc>
+  </url><url>
+    <loc>/overmij/</loc>
+  </url><url>
+    <loc>/praktischezaken/</loc>
+  </url><url>
     <loc>/search/</loc>
+  </url><url>
+    <loc>/waarommetpaarden/</loc>
   </url>
 </urlset>
